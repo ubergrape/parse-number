@@ -1,0 +1,11 @@
+{
+	"name": "parse-number",
+	"description": "Parse the first number in a string.",
+	"version": "1.0.0",
+	"keywords": [
+		"parse",
+		"number"
+	],
+	"main": "index.js",
+	"license": "MIT"
+}
